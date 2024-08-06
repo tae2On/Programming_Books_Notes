@@ -32,23 +32,8 @@ PART 7. 머신러닝 데이터 분석
 </ol>
 
 <h3>📝 참고 자료</h3>
-<ul style="list-style-type: none; padding: 0;">
-  <li>
-    <a href="https://www.kaggle.com/c/titanic/data" style="text-decoration: none; color: #007bff;">| Kaggle: Titanic - Machine Learning from Disaster</a>
-  </li>
-  <li>
-    <a href="https://kosis.kr/statHtml/statHtml.do?mode=tab&orgId=101&tblId=DT_1ZGA74&vw_cd=MT_BUKHAN&list_id=101_001_012&conn_path=MT_BUKHAN&path=%252Fbukhan%252FstatisticsList%252FstatisticsListIndex.do" style="text-decoration: none; color: #007bff;">| KOSIS(통계청, 북한통계포털): 발전 전력량(1990 ~ 2016)</a>
-  </li>
-  <li>
-    <a href="https://ko.wikipedia.org/wiki/FIFA_U-20_%EC%9B%94%EB%93%9C%EC%BB%B5" style="text-decoration: none; color: #007bff;">| 위키백과: FIFA U-20 월드컵</a>
-  </li>
-  <li>
-    <a href="https://archive.ics.uci.edu/dataset/9/auto+mpg" style="text-decoration: none; color: #007bff;">| UCI Machine Learning Repository: Auto MPG</a>
-  </li>
-  <li>
-    <a href="https://kosis.kr/visual/nsportalStats/detailContents.do?listId=A&statJipyoId=3635&vStatJipyoId=4902" style="text-decoration: none; color: #007bff;">| KOSIS(통계청, 국내인구 이동통계)</a>
-  </li>
-
-
-  
-</ul>
+<a href="https://www.kaggle.com/c/titanic/data" style="text-decoration: none; color: #007bff;">Kaggle: Titanic - Machine Learning from Disaster</a><br>
+<a href="https://kosis.kr/statHtml/statHtml.do?mode=tab&orgId=101&tblId=DT_1ZGA74&vw_cd=MT_BUKHAN&list_id=101_001_012&conn_path=MT_BUKHAN&path=%252Fbukhan%252FstatisticsList%252FstatisticsListIndex.do" style="text-decoration: none; color: #007bff;">KOSIS(통계청, 북한통계포털): 발전 전력량(1990 ~ 2016)</a><br>
+<a href="https://ko.wikipedia.org/wiki/FIFA_U-20_%EC%9B%94%EB%93%9C%EC%BB%B5" style="text-decoration: none; color: #007bff;">위키백과: FIFA U-20 월드컵</a><br>
+<a href="https://archive.ics.uci.edu/dataset/9/auto+mpg" style="text-decoration: none; color: #007bff;">UCI Machine Learning Repository: Auto MPG</a><br>
+<a href="https://kosis.kr/visual/nsportalStats/detailContents.do?listId=A&statJipyoId=3635&vStatJipyoId=4902" style="text-decoration: none; color: #007bff;">KOSIS(통계청, 국내인구 이동통계)</a>
