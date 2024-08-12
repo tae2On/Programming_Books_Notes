@@ -29,6 +29,9 @@ PART 7. 머신러닝 데이터 분석
   <li><strong>Repository에 기록</strong>  
       <p>정리한 내용을 repository에 기록하여 나중에 쉽게 참고할 수 있도록 합니다.</p>
   </li>
+  <li><strong>배운 내용 응용</strong>  
+      <p>정리한 내용을 바탕으로 문제를 해결하거나 프로젝트에 적용하여 배운 내용을 실습합니다.</p>
+  </li>
 </ol>
 
 <h3>📝 참고 자료</h3>
