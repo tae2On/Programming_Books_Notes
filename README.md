@@ -9,11 +9,6 @@
 <code>[장] 제목</code> 양식을 따릅니다.<br>
 
 <h3>🗂️ 레포지토리 구조</h3>
-🗹 파이썬 머신러닝 판다스 데이터 분석_이승환<br>
-☐ 
-
-
-🗹 <a href="https://search.shopping.naver.com/book/catalog/32473421116?cat_id=50010921&frm=PBOKPRO&query=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D+%ED%8C%90%EB%8B%A4%EC%8A%A4+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&NaPm=ct%3Dlzql8ivk%7Cci%3D71af72a4ac0d9ab9c151edf0246d7a1465d34211%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D227008d68c7aa45e44e81542160ebf6f1923687a" style="text-decoration: none; color: #007bff;">파이썬 머신러닝 판다스 데이터 분석</a>_이승환<br>
 
 🗹 <a href="https://search.shopping.naver.com/book/catalog/32473421116?cat_id=50010921&frm=PBOKPRO&query=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D+%ED%8C%90%EB%8B%A4%EC%8A%A4+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&NaPm=ct%3Dlzql8ivk%7Cci%3D71af72a4ac0d9ab9c151edf0246d7a1465d34211%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D227008d68c7aa45e44e81542160ebf6f1923687a" style="text-decoration: none; color: #007bff;">파이썬 머신러닝 판다스 데이터 분석_이승환</a><br>
 
