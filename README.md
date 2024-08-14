@@ -9,8 +9,10 @@
 <code>[장] 제목</code> 양식을 따릅니다.<br>
 
 <h3>🗂️ 레포지토리 구조</h3>
-
 🗹 <a href="https://search.shopping.naver.com/book/catalog/32473421116?cat_id=50010921&frm=PBOKPRO&query=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D+%ED%8C%90%EB%8B%A4%EC%8A%A4+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%B6%84%EC%84%9D&NaPm=ct%3Dlzql8ivk%7Cci%3D71af72a4ac0d9ab9c151edf0246d7a1465d34211%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D227008d68c7aa45e44e81542160ebf6f1923687a" style="text-decoration: none; color: #007bff;">파이썬 머신러닝 판다스 데이터 분석_이승환</a><br>
+☐ <a href="https://search.shopping.naver.com/book/catalog/32485894885?cat_id=50010920&frm=PBOKPRO&query=%ED%8C%8C%EC%9D%B4%EC%8D%AC+%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C&NaPm=ct%3Dlztl8lk0%7Cci%3Dc70dc29e6d0d5ce158283d863fe6734051ca800f%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3D610c3cf99c6f6956b1f55019d3f8f53344e774a9" style="text-decoration: none; color: #007bff;">파이썬 머신러닝 완벽 가이드_권철민</a><br>
+
+
 
 <h3>📝 메모</h3>
 이곳에 정리된 내용은 책을 읽으면서 새로 알게 된 점이나 중요하다고 생각되는 부분을 바탕으로 작성된 것입니다.<br>
