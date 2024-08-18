@@ -1,0 +1,21 @@
+<h2>📌 PART 2. 사이킷런으로 시작하는 머신러닝</h2>
+
+**전체 코드 및 결과를 확인하시려면 [여기](https://github.com/tae2On/Technical_Books_Notes/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C/02.%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.ipynb "전체 코드 보기") 를 클릭하세요.<br> 각 예제 코드와 그 결과를 자세히 확인하실 수 있습니다.**
+
+<h3><a href="https://github.com/tae2On/Technical_Books_Notes/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C/02.%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/1.%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%20%EC%86%8C%EA%B0%9C%EC%99%80%20%ED%8A%B9%EC%A7%95.md">1. 사이킷런 소개와 특징</a></h3>
+
+<h3><a href="https://github.com/tae2On/Technical_Books_Notes/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C/02.%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/2.%20%EC%B2%AB%20%EB%B2%88%EC%A7%B8%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EB%A7%8C%EB%93%A4%EC%96%B4%20%EB%B3%B4%EA%B8%B0%20-%20%EB%B6%93%EA%BD%83%20%ED%92%88%EC%A2%85%20%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0.md">2. 첫 번째 머신러닝 만들어 보기 - 붓꽃 품종 예측하기</a></h3>
+
+<h3><a href="https://github.com/tae2On/Technical_Books_Notes/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C/02.%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/3.%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EC%9D%98%20%EA%B8%B0%EB%B0%98%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%9D%B5%ED%9E%88%EA%B8%B0.md">3. 사이킷런의 기반 프레임워크 익히기</a></h3>
+
+*Estimator 이해 및 fit( ), predict( ) 메서드, 사이킷런의 주요 모듈, 내장된 예제 데이터 세트*
+
+<h3><a href="https://github.com/tae2On/Technical_Books_Notes/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C/02.%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/4.%20Model%20Selection%20%EB%AA%A8%EB%93%88%20%EC%86%8C%EA%B0%9C.md">4. Model Selection 모듈 소개</a></h3>
+
+*학습/테스트 데이터 세트 분리, 교차 검증, GridSearchCV*
+
+<h3><a href="https://github.com/tae2On/Technical_Books_Notes/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C/02.%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/5.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC.md">5. 데이터 전처리</a></h3>
+
+*데이터 인코딩, 피처 스케일링과 정규화, StandardScaler, MinMaxScaler*
+
+<h3><a href="https://github.com/tae2On/Technical_Books_Notes/blob/main/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EC%99%84%EB%B2%BD%20%EA%B0%80%EC%9D%B4%EB%93%9C/02.%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EC%9C%BC%EB%A1%9C%20%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/6.%20%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EC%9C%BC%EB%A1%9C%20%EC%88%98%ED%96%89%ED%95%98%EB%8A%94%20%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89%20%EC%83%9D%EC%A1%B4%EC%9E%90%20%EC%98%88%EC%B8%A1.md">6. 사이킷런으로 수행하는 타이타닉 생존자 예측</a></h3>
